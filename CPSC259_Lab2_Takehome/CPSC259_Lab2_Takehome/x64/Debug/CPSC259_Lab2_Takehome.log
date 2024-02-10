@@ -1,0 +1,13 @@
+﻿  dna.c
+C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(141,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(144,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(188,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(191,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(352,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(353,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(423,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(424,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(458,10): warning C4101: 'int_buffer': unreferenced local variable
+  main.c
+  Generating Code...
+  CPSC259_Lab2_Takehome.vcxproj -> C:\UBC\CPSC 259\Labs\CPSC259_Lab2_Takehome\x64\Debug\CPSC259_Lab2_Takehome.exe

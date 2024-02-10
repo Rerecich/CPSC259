@@ -1,0 +1,5 @@
+﻿  pagerank.c
+C:\UBC\CPSC 259\Labs\Lab5\Lab5\pagerank.c(23,3): warning C4098: 'main': 'void' function returning a value
+C:\UBC\CPSC 259\Labs\Lab5\Lab5\pagerank.c(37,3): warning C4098: 'main': 'void' function returning a value
+C:\UBC\CPSC 259\Labs\Lab5\Lab5\pagerank.c(109,2): warning C4098: 'main': 'void' function returning a value
+  Lab5.vcxproj -> C:\UBC\CPSC 259\Labs\Lab5\x64\Debug\Lab5.exe

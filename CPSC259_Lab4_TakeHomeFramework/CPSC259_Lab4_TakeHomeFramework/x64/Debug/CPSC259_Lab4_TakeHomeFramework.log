@@ -1,0 +1,4 @@
+﻿  mazesolver.c
+C:\UBC\CPSC 259\Labs\CPSC259_Lab4_TakeHomeFramework\CPSC259_Lab4_TakeHomeFramework\mazesolver.c(90,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\UBC\CPSC 259\Labs\CPSC259_Lab4_TakeHomeFramework\CPSC259_Lab4_TakeHomeFramework\mazesolver.c(227,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CPSC259_Lab4_TakeHomeFramework.vcxproj -> C:\UBC\CPSC 259\Labs\CPSC259_Lab4_TakeHomeFramework\x64\Debug\CPSC259_Lab4_TakeHomeFramework.exe

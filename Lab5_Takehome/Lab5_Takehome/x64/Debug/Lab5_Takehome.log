@@ -1,0 +1,6 @@
+﻿  pagerank.c
+C:\UBC\CPSC 259\Labs\Lab5_Takehome\Lab5_Takehome\pagerank.c(46,7): warning C4101: 'buffer': unreferenced local variable
+C:\UBC\CPSC 259\Labs\Lab5_Takehome\Lab5_Takehome\pagerank.c(197,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\UBC\CPSC 259\Labs\Lab5_Takehome\Lab5_Takehome\pagerank.c(231,11): warning C4101: 'result': unreferenced local variable
+C:\UBC\CPSC 259\Labs\Lab5_Takehome\Lab5_Takehome\pagerank.c(379,11): warning C4101: 'column': unreferenced local variable
+  Lab5_Takehome.vcxproj -> C:\UBC\CPSC 259\Labs\Lab5_Takehome\x64\Debug\Lab5_Takehome.exe

@@ -1,0 +1,6 @@
+﻿  linkedlist.c
+C:\Users\srere\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\linkedlist.c(87,22): warning C4047: '=': 'node *' differs in levels of indirection from 'node **'
+C:\Users\srere\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\linkedlist.c(93,41): warning C4133: '=': incompatible types - from 'airplane *' to 'node *'
+C:\Users\srere\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\linkedlist.c(259,46): warning C4133: '=': incompatible types - from 'airplane *' to 'node *'
+C:\Users\srere\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\linkedlist.c(130): warning C4715: 'delete_node': not all control paths return a value
+  CPSC259_Lab3_Framework.vcxproj -> C:\Users\srere\CPSC259_Lab3_Framework\Debug\CPSC259_Lab3_Framework.exe
